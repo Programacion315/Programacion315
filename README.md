@@ -42,7 +42,7 @@ I love learning new things, besides programming I like to exercise, juggle, run,
 
 
 
-```
+
 <!--END_SECTION:waka-->
 
 If you want to support me, you can buy me a coffee ☕
