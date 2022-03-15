@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="25px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="35px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 
 
