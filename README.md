@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/">
   <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/">
-  <img  style="margin-left:5px" align="left" alt="Jorge's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
