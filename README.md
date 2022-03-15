@@ -1,13 +1,13 @@
 ### <img src="https://media4.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif?cid=ecf05e470k0uc0hrsl5l76toj3q5279rqlalzlg0v4uhnrzb&rid=giphy.gif&ct=ts" width="190px">
 <a href="https://www.instagram.com/jluiso315/">
-  <img align="left" alt="Jorges's Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  <img align="left" alt="Jorges's Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+  <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="25px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 
 
