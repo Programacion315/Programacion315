@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/15764087/jorge-h?tab=profile">
-  <img style="margin-left:5px" align="left" alt="Jorge's Stack Overflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
+  <img style="margin-left:5px" align="left" alt="Jorge's Stack Overflow" width="25px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
 <a href="https://www.youtube.com/watch?v=n26ZqHhF0SA">
