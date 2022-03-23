@@ -6,13 +6,15 @@
   <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
+<a href="https://www.youtube.com/watch?v=n26ZqHhF0SA">
+  <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
+</a>
+
 <a href="https://stackoverflow.com/users/15764087/jorge-h?tab=profile">
   <img style="margin-left:5px" align="left" alt="Jorge's Stack Overflow" width="25px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
-<a href="https://www.youtube.com/watch?v=n26ZqHhF0SA">
-  <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-</a>
+
 
 
 
