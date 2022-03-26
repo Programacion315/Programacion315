@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/jluiso315/">
   <img align="left" alt="Jorges's Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="linkedin.com/in/jorge-huergo-ab5a84235">
   <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
