@@ -14,6 +14,10 @@
   <img style="margin-left:5px" align="left" alt="Jorge's Stack Overflow" width="25px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
+<a href="https://open.spotify.com/playlist/1XEcMGCIw0TUlSSxgWV8zB?si=78e092603f614b96">
+  <img style="margin-left:5px" align="left" alt="Jorge's spotify" width="25px" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" />
+</a>
+
 
 
 
