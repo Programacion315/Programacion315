@@ -62,6 +62,10 @@ If you want to support me, you can buy me a coffee ☕
 
 <a href="https://ko-fi.com/programacion315" target="_blank"><img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" alt="Ko-fi" width="150" ></a>
 
+🍄 **Open source projects in which I participate**
+ - [Todo App](https://github.com/gutierrezgsebastian/todo-app)
+ 
+
 🚀 **Future:**
 
 ⭕  Artificial intelligence.          
