@@ -1,4 +1,5 @@
-### <img src="https://media4.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif?cid=ecf05e470k0uc0hrsl5l76toj3q5279rqlalzlg0v4uhnrzb&rid=giphy.gif&ct=ts#gh-dark-mode-only" width="190px">
+### ![hello](https://user-images.githubusercontent.com/83243886/199150008-b2d1b500-e366-4651-9777-7c4c7ee42266.gif#gh-dark-mode-only)
+
 <a href="https://www.instagram.com/jluiso315/">
   <img align="left" alt="Jorges's Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
