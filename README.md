@@ -8,7 +8,7 @@
   <img style="margin-left:5px" align="left" alt="Jorge's Linkedin" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
-<a href="https://www.youtube.com/watch?v=n26ZqHhF0SA">
+<a href="[https://www.youtube.com/watch?v=n26ZqHhF0SA](https://www.youtube.com/channel/UCrRqgfDmXa2OcVOJpZYrliA)">
   <img style="margin-left:5px" align="left" alt="Jorge's YoutTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 
