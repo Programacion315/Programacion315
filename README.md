@@ -42,7 +42,7 @@ I love learning new things, besides programming I like to exercise, juggle, run,
 <!--Imagen-->
   <img align="right" alt="GIF" src="https://github.com/Programacion315/Programacion315/blob/master/presentacion/jorge.gif?raw=true" width="500" height="320" />
   
-- 💼 Job? Write me an [Email]()   
+- 💼 Job? Write me an [Email](mailto:huergocode@proton.me)   
 - 💼 Any questions? Write to [Stack Overflow]() 
 
 **languages and tools:**  
