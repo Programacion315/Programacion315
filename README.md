@@ -1,6 +1,3 @@
-![hello](https://user-images.githubusercontent.com/83243886/199150008-b2d1b500-e366-4651-9777-7c4c7ee42266.gif#gh-dark-mode-only)
-
-
 # Dev. Jorge Huergo 🚀
 
 <br />
