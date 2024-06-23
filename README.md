@@ -23,7 +23,9 @@ Is it really worth living without a dream?
 
 <!--Imagen-->
  <!--<img align="right" alt="GIF" src="https://github.com/Programacion315/Programacion315/blob/master/presentacion/jorge.gif?raw=true" width="500" height="320" />-->
-<img align="right" src="https://github.com/Programacion315/Programacion315/assets/83243886/bbf7214a-0f36-456c-bdf9-ea98a7a8f808" width="500" height="320" alt="ULOCK" />
+<img align="right" src="https://github.com/Programacion315/Programacion315/assets/83243886/bbf7214a-0f36-456c-bdf9-ea98a7a8f808" width="600" alt="ULOCK" />
+
+<br/>
   
 - 💼 Job? Write me an [Email](mailto:huergocode@proton.me)   
 - 💼 Any questions? Write to [Stack Overflow]() 
