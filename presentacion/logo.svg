@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60">
   <!-- Fondo circular tech -->
-  <circle cx="40" cy="40" r="25" fill="#2D3436" />
-  <circle cx="40" cy="40" r="22" fill="#0984E3" fill-opacity="0.1" />
+  <circle cx="30" cy="30" r="25" fill="#2D3436" />
+  <circle cx="30" cy="30" r="22" fill="#0984E3" fill-opacity="0.1" />
   
   <!-- Elementos de código -->
-  <path d="M28 40 L38 30 L35 27 L23 40 L35 53 L38 50 L28 40" fill="#0984E3"/>
-  <path d="M52 40 L42 30 L45 27 L57 40 L45 53 L42 50 L52 40" fill="#0984E3"/>
+  <path d="M18 30 L28 20 L25 17 L13 30 L25 43 L28 40 L18 30" fill="#0984E3"/>
+  <path d="M42 30 L32 20 L35 17 L47 30 L35 43 L32 40 L42 30" fill="#0984E3"/>
   
   <!-- Texto Huergo -->
-  <text x="80" y="53" font-family="Arial" font-size="35" font-weight="bold" fill="#2D3436">
+  <text x="70" y="42" font-family="Arial" font-size="35" font-weight="bold" fill="#2D3436">
     Huergo<tspan fill="#0984E3">.click</tspan>
   </text>
   
   <!-- Elementos decorativos tech -->
-  <circle cx="40" cy="40" r="28" stroke="#0984E3" stroke-width="2" fill="none" stroke-dasharray="4,2">
+  <circle cx="30" cy="30" r="28" stroke="#0984E3" stroke-width="2" fill="none" stroke-dasharray="4,2">
     <animateTransform
       attributeName="transform"
       type="rotate"
-      from="0 40 40"
-      to="360 40 40"
+      from="0 30 30"
+      to="360 30 30"
       dur="20s"
       repeatCount="indefinite"/>
   </circle>
