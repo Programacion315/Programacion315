@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Fondo circular tech -->
+  <circle cx="60" cy="100" r="30" fill="#2D3436" />
+  <circle cx="60" cy="100" r="26" fill="#0984E3" fill-opacity="0.1" />
+  
+  <!-- Elementos de código -->
+  <path d="M45 100 L55 90 L52 87 L40 100 L52 113 L55 110 L45 100" fill="#0984E3"/>
+  <path d="M75 100 L65 90 L68 87 L80 100 L68 113 L65 110 L75 100" fill="#0984E3"/>
+  
+  <!-- Texto Huergo -->
+  <text x="100" y="110" font-family="Arial" font-size="40" font-weight="bold" fill="#2D3436">
+    Huergo<tspan fill="#0984E3">.click</tspan>
+  </text>
+  
+  <!-- Elementos decorativos tech -->
+  <circle cx="60" cy="100" r="35" stroke="#0984E3" stroke-width="2" fill="none" stroke-dasharray="4,2">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 60 100"
+      to="360 60 100"
+      dur="20s"
+      repeatCount="indefinite"/>
+  </circle>
+</svg>
